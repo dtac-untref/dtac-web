@@ -86,6 +86,22 @@ body {
   background-color: #5f5f5f;
 }
 
+.wpp-button {
+  padding: 15px 40px;
+  background-color: #138c7e;
+  border-radius: 15px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  border: 1px solid #118073;
+}
+
+
+.wpp-button:hover {
+  background-color: #118073;
+}
+
 .calendar-section {
   margin-top: 20px;
   width: 100%;

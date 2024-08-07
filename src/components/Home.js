@@ -27,6 +27,21 @@ function Home() {
         >
           Unirse a la clase
         </button>
+
+        <button
+          className="wpp-button"
+          onClick={() => window.open('https://chat.whatsapp.com/ILfsrssSDkeG8EHrhRVQMr', '_blank')}
+        >
+          Grupo Wpp Miercoles
+        </button>
+
+        <button
+          className="wpp-button"
+          onClick={() => window.open('https://chat.whatsapp.com/HRu8Q8D4PkHAxfQuYugX36', '_blank')}
+        >
+          Grupo Wpp Jueves
+        </button>
+
       </div>
       <div className="calendar-section">
         <h3>Calendario</h3>
