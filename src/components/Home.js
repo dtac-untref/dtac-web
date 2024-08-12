@@ -36,7 +36,7 @@ function Home() {
 
         <button
           className="meet-button"
-          onClick={() => window.open('https://meet.google.com/your-meet-link', '_blank')}
+          onClick={() => window.open('https://meet.google.com/mnc-qzxm-fiz', '_blank')}
         >
           Unirse a la clase
         </button>
