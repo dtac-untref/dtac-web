@@ -1,17 +1,20 @@
 import React from 'react';
 import Calendar from './Calendar';
 import ejercitaciones from './EjercitacionesData';
-import Ejercitacion from './Ejercitacion'; // Importar el componente Ejercitacion
+import Ejercitacion from './Ejercitacion';
+import Actividad from './Actividad';
+import actividades from './ActividadData'; // Importar el componente Ejercitacion
 import '../App.css';
 
 function Home() {
   const ultimaEjercitacion = ejercitaciones[ejercitaciones.length - 1];
+  const ultimaActividad = actividades[actividades.length - 1]; // Obtener la última actividades
 
   return (
     <div className="home">
       <h2>Bienvenid@!</h2>
       <div className="activities">
-        <h3>Actividad de esta semana</h3>
+        <h3>Actividades de esta semana</h3>
         {ultimaEjercitacion && (
           <Ejercitacion 
             titulo={ultimaEjercitacion.titulo}
@@ -21,6 +24,16 @@ function Home() {
             powerpoints={ultimaEjercitacion.powerpoints}
           />
         )}
+        {ultimaActividad && (
+          <Actividad 
+            titulo={ultimaActividad.titulo}
+            consigna={ultimaActividad.consigna}
+            videos={ultimaActividad.videos}
+            pdfs={ultimaActividad.pdfs}
+            powerpoints={ultimaActividad.powerpoints}
+          />
+          )}
+
         <button
           className="meet-button"
           onClick={() => window.open('https://meet.google.com/your-meet-link', '_blank')}
