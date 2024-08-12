@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/dtac-web/static/css/main.e65270d2.css",
-    "main.js": "/dtac-web/static/js/main.37d25b92.js",
+    "main.js": "/dtac-web/static/js/main.d901a73c.js",
     "static/js/453.699f82d8.chunk.js": "/dtac-web/static/js/453.699f82d8.chunk.js",
     "static/media/construccion.png": "/dtac-web/static/media/construccion.3d5b73af9daca7cebf32.png",
     "static/media/logo.jpeg": "/dtac-web/static/media/logo.0fa574d0735193dfec26.jpeg",
+    "static/media/Ejercitacion-01.rar": "/dtac-web/static/media/Ejercitacion-01.2a73a5f4f155031df383.rar",
     "static/media/Ejercitacion 01-3.pdf": "/dtac-web/static/media/Ejercitacion 01-3.3feae2fdb1138519f04d.pdf",
     "static/media/Ejercitacion 01-2.pdf": "/dtac-web/static/media/Ejercitacion 01-2.dbff2b0854249e05d61f.pdf",
     "static/media/Ejercitacion 01-1.pdf": "/dtac-web/static/media/Ejercitacion 01-1.923666a771198f596f5c.pdf",
     "index.html": "/dtac-web/index.html",
     "main.e65270d2.css.map": "/dtac-web/static/css/main.e65270d2.css.map",
-    "main.37d25b92.js.map": "/dtac-web/static/js/main.37d25b92.js.map",
+    "main.d901a73c.js.map": "/dtac-web/static/js/main.d901a73c.js.map",
     "453.699f82d8.chunk.js.map": "/dtac-web/static/js/453.699f82d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e65270d2.css",
-    "static/js/main.37d25b92.js"
+    "static/js/main.d901a73c.js"
   ]
 }
