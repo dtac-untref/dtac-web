@@ -36,10 +36,19 @@ function Home() {
 
         <button
           className="meet-button"
-          onClick={() => window.open('https://meet.google.com/mnc-qzxm-fiz', '_blank')}
+          onClick={() => window.open('https://meet.google.com/ttg-gpgj-aro', '_blank')}
         >
-          Unirse a la clase
+          Unirse a la clase (Miércoles)
         </button>
+
+        <button
+          className="meet-button"
+          onClick={() => window.open('https://meet.google.com/shf-rqko-sis', '_blank')}
+        >
+          Unirse a la clase (Jueves)
+        </button>
+
+        <br></br>
 
         <button
           className="wpp-button"
