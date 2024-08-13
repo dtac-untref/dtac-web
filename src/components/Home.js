@@ -48,7 +48,7 @@ function Home() {
           Unirse a la clase (Jueves)
         </button>
 
-        <br> </br>
+        <br></br>
 
         <button
           className="wpp-button"
