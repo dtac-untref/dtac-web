@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dtac-web/static/css/main.60a26cc3.css",
-    "main.js": "/dtac-web/static/js/main.51afead5.js",
+    "main.js": "/dtac-web/static/js/main.56fb0c3d.js",
     "static/js/453.699f82d8.chunk.js": "/dtac-web/static/js/453.699f82d8.chunk.js",
     "static/media/construccion.png": "/dtac-web/static/media/construccion.3d5b73af9daca7cebf32.png",
     "static/media/logo.jpeg": "/dtac-web/static/media/logo.0fa574d0735193dfec26.jpeg",
@@ -10,11 +10,11 @@
     "static/media/Ejercitacion 01-1.pdf": "/dtac-web/static/media/Ejercitacion 01-1.923666a771198f596f5c.pdf",
     "index.html": "/dtac-web/index.html",
     "main.60a26cc3.css.map": "/dtac-web/static/css/main.60a26cc3.css.map",
-    "main.51afead5.js.map": "/dtac-web/static/js/main.51afead5.js.map",
+    "main.56fb0c3d.js.map": "/dtac-web/static/js/main.56fb0c3d.js.map",
     "453.699f82d8.chunk.js.map": "/dtac-web/static/js/453.699f82d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60a26cc3.css",
-    "static/js/main.51afead5.js"
+    "static/js/main.56fb0c3d.js"
   ]
 }
