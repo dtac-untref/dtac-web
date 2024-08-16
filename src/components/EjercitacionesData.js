@@ -1,7 +1,8 @@
 import ej_1 from "../pdfs/Ejercitacion 01-1.pdf";
 import ej_2 from "../pdfs/Ejercitacion 01-2.pdf";
 import ej_3 from "../pdfs/Ejercitacion 01-3.pdf";
-// import rar_1 from "../rar/Ejercitacion-01.rar";
+import ej2_1 from "../pdfs/Ejercitacion 02-en clase.pdf";
+import ej2_2 from "../pdfs/Ejercitacion 02-flor.pdf";
 
 // const archivoRAR = `${process.env.PUBLIC_URL}/public/rar/Ejercitacion-01.rar`;
 
@@ -55,53 +56,29 @@ const ejercitaciones = [
   },
 
 
-  //   {
-  //     id: 2,
-  //     titulo: 'Ejercitación 2',
-  //     consigna: `
-  //         Estimados,<br><br>
-  //         Esperando que se encuentren bien, comenzaremos compartiendo los Videotutoriales
-  //         que guiarán la cursada, les servirá para entender el sentido que le daremos al manejo
-  //         del programa, es decir, a la metodología de trabajo que proponemos, esta modalidad
-  //         de uso, será considerada a la hora de corregir. En algunas ocasiones, iremos
-  //         compartiendo otros videos que también muestran los temas de cada clase, que están
-  //         subidos a YouTube, y que no han sido generados por nosotros, pero en todos los
-  //         casos no dejen de ver el video específico de la materia para entender cómo
-  //         establecemos las pautas de uso o flujo de trabajo.<br><br>
-  //         Para arrancar les solicitamos que vean este tutorial sobre Introducción y
-  //         familiarización con el programa
-  //         AutoCAD: <a href="https://drive.google.com/file/d/1TasLgPJK9hKXU4yjfFIyKDtDAzpn2cQL/view?usp=sharing" target="_blank">Ver Video</a><br>
-  //         Aquí tienen un video de la Universidad Politécnica de Valencia sobre la apariencia de
-  //         del entorno Dibujo 2D y anotación, en este caso de AutoCAD 2018, en español:
-  //         <a href="https://youtu.be/sIoyDF_1k-8" target="_blank">Ver Video</a><br>
-  //         En este video se reiteran algunas cuestiones, pero explicamos el modo de activar la
-  //         Barra de Menús desplegables propios del entorno Autocad Clásico dentro del entorno
-  //         Dibujo 2D y anotación e insisto con la manera de desactivar las ayudas de dibujo:
-  //         <a href="https://youtu.be/bQ5_o5XPjR0" target="_blank">Ver Video</a><br>
-  //         Por último, enviamos este Videotutorial sobre Ingreso de datos por coordenadas:
-  //         <a href="https://drive.google.com/file/d/1ddxd_21ZiwuUU458PNpB9zuB5o-WIH-l/view?usp=sharing" target="_blank">Ver Video</a><br><br>
-  //         En la Sección Archivos adjuntamos el archivo Ejercitacion 01.rar, al descomprimirlo
-  //         encontrarán 3 ejercitaciones, para que las ejecuten y puedan practicar la generación
-  //         de vectores por medio del ingreso de datos por coordenadas utilizando, el comando
-  //         línea, el comando borrar, el zoom en tiempo real con la ruedita del mouse y el paneo,
-  //         panorámico o encuadre (Presionando la ruedita del mouse). Para trabajar en esta
-  //         instancia donde nos encontramos, es fundamental que recuerden desactivar todas las
-  //         ayudas de dibujo ubicadas en la barra de estado, debajo de la línea de comandos.
-  //         ESPECIALMENTE LES SOLICITAMOS QUE DESACTIVEN ENTRADA DINAMICA (F12).<br><br>
-  //         Los archivos adjuntos se componen por tres figuras, la primera (Ejercitacion 01- 1.pdf)
-  //         es la que se explica en el video, las otras dos (Ejercitacion 01- 2.pdf y Ejercitacion 01-
-  //         3.pdf) son de similares características, la última se puede comenzar a dibujar en
-  //         cualquier parte de nuestro espacio de trabajo.
-  //     `,
-  //     videos: [
-  //         'https://www.youtube.com/embed/sIoyDF_1k-8',
-  //         'https://drive.google.com/file/d/1TasLgPJK9hKXU4yjfFIyKDtDAzpn2cQL/preview'
-  //     ],
-  //     pdfs: [
-  //         'https://drive.google.com/file/d/1ddxd_21ZiwuUU458PNpB9zuB5o-WIH-l/preview',
-  //     ],
-  //     powerpoints: []
-  // },
+    {
+      id: 2,
+      titulo: 'Ejercitación 2',
+      consigna: `
+          Estimados,<br><br>
+          Para continuar con la cursada les solicitamos que vean los siguientes videos:<br><br>
+          <a href="https://drive.google.com/file/d/1chJ-4pgtjRgNIvLDYe11Pz99r_dhBV_B/view?usp=sharing" target="_blank">Ver Video</a><br><br>
+          <a href="https://drive.google.com/file/d/1Wor7QjxjyHJ6r5el9tADaeaLEdtHOJ_A/view?usp=sharing" target="_blank">Ver Video</a><br><br>
+          Compartimos los 2 archivos <em>Ejercitacion 02-en clase.pdf</em> y <em>Ejercitacion 02-flor.pdf</em>. La primera se compone de algunas figuras que utilizamos para practicar en clase, dado que no debe ser entregada. La segunda es para desarrollar la Ejercitacion 02, que será de entrega obligatoria, con fecha límite de envío estipulada para el <strong>Jueves 22/8 (comision Miercoles)</strong> y <strong>Viernes 23/8 (comision Jueves)</strong> inclusive.<br><br>
+          Estas actividades nos comprometen a practicar los comandos línea, arco y círculo (comandos Básicos de Dibujo) todavía no utilizamos el comando rectángulo.
+          Por otro lado, es fundamental que comencemos a valernos de las ayudas de dibujo (ubicadas en la barra de estado) sin depender directamente del ingreso de coordenadas cartesianas o polares, es decir que a partir de ahora debemos comenzar a dibujar de <em>manera implícita</em>, indagando en el mejor modo de dibujar para cada uno de nosotros.<br><br>
+          <strong>Reiteramos que la realización de las ejercitaciones es requisito para la aprobación del curso, y deben ser entregadas en tiempo y forma al Correo: dtacun3f@gmail.com.</strong>
+          <br><br>
+          Les mandamos saludos y seguimos en contacto.
+
+      `,
+      videos: [
+          'https://drive.google.com/file/d/1chJ-4pgtjRgNIvLDYe11Pz99r_dhBV_B/preview',
+          'https://drive.google.com/file/d/1Wor7QjxjyHJ6r5el9tADaeaLEdtHOJ_A/preview'
+      ],
+      pdfs: [ej2_1.pdf, ej2_2.pdf],
+      powerpoints: []
+  },
   // Puedes agregar más ejercitaciones aquí
 ];
 
