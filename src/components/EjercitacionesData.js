@@ -76,8 +76,8 @@ const ejercitaciones = [
           'https://drive.google.com/file/d/1chJ-4pgtjRgNIvLDYe11Pz99r_dhBV_B/preview',
           'https://drive.google.com/file/d/1Wor7QjxjyHJ6r5el9tADaeaLEdtHOJ_A/preview'
       ],
-      pdfs: [ej2_1.pdf, ej2_2.pdf],
-      powerpoints: []
+      pdfs: [ej2_1, ej2_2],
+      powerpoints: [],
   },
   // Puedes agregar más ejercitaciones aquí
 ];
