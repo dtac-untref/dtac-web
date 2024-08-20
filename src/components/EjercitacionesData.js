@@ -3,6 +3,14 @@ import ej_2 from "../pdfs/Ejercitacion 01-2.pdf";
 import ej_3 from "../pdfs/Ejercitacion 01-3.pdf";
 import ej2_1 from "../pdfs/Ejercitacion 02-en clase.pdf";
 import ej2_2 from "../pdfs/Ejercitacion 02-flor.pdf";
+import ej3_1 from "../pdfs/Ejercitacion 03-en clase.pdf";
+import ej3_2 from "../pdfs/Ejercitacion 03-en clase-Consigna.pdf";
+import ej3_3 from "../pdfs/Ejercitacion 03 Flor.pdf";
+import ej3_4 from "../pdfs/Ejercitacion 03 Flor-Desarrollo.pdf";
+import ej3_5 from "../pdfs/Ejercitacion 03 Flor-Consigna.pdf";
+import ej3_6 from "../pdfs/Ejercitacion 03-Cubo-Consigna.pdf";
+import ej3_7 from "../pdfs/Ejercitacion 03-Cubo.pdf";
+import ej3_8 from "../pdfs/Ejercitacion 03-Cubo-Desarrollo.pdf";
 
 // const archivoRAR = `${process.env.PUBLIC_URL}/public/rar/Ejercitacion-01.rar`;
 
@@ -64,10 +72,11 @@ const ejercitaciones = [
           Para continuar con la cursada les solicitamos que vean los siguientes videos:<br><br>
           <a href="https://drive.google.com/file/d/1chJ-4pgtjRgNIvLDYe11Pz99r_dhBV_B/view?usp=sharing" target="_blank">Ver Video</a><br><br>
           <a href="https://drive.google.com/file/d/1Wor7QjxjyHJ6r5el9tADaeaLEdtHOJ_A/view?usp=sharing" target="_blank">Ver Video</a><br><br>
-          Compartimos los 2 archivos <em>Ejercitacion 02-en clase.pdf</em> y <em>Ejercitacion 02-flor.pdf</em>. La primera se compone de algunas figuras que utilizamos para practicar en clase, dado que no debe ser entregada. La segunda es para desarrollar la Ejercitacion 02, que será de entrega obligatoria, con fecha límite de envío estipulada para el <strong>Jueves 22/8 (comision Miercoles)</strong> y <strong>Viernes 23/8 (comision Jueves)</strong> inclusive.<br><br>
+          Compartimos los 2 archivos <em>Ejercitacion 02-en clase.pdf</em> y <em>Ejercitacion 02-flor.pdf</em>. La primera se compone de algunas figuras que utilizamos para practicar en clase, dado que no debe ser entregada. La segunda es para desarrollar la Ejercitacion 02, que será de entrega obligatoria, con fecha límite de envío estipulada para el <strong>Jueves 22/8 (comision Miercoles)</strong> y <strong>Viernes 23/8 (comision Jueves)</strong> inclusive.
+          <br><br>
           Estas actividades nos comprometen a practicar los comandos línea, arco y círculo (comandos Básicos de Dibujo) todavía no utilizamos el comando rectángulo.
           Por otro lado, es fundamental que comencemos a valernos de las ayudas de dibujo (ubicadas en la barra de estado) sin depender directamente del ingreso de coordenadas cartesianas o polares, es decir que a partir de ahora debemos comenzar a dibujar de <em>manera implícita</em>, indagando en el mejor modo de dibujar para cada uno de nosotros.<br><br>
-          <strong>Reiteramos que la realización de las ejercitaciones es requisito para la aprobación del curso, y deben ser entregadas en tiempo y forma al Correo: dtacun3f@gmail.com.</strong>
+          <strong>Reiteramos que la realización de las ejercitaciones es requisito para la aprobación del curso, y deben ser entregadas en tiempo y forma al correo: dtacun3f@gmail.com.</strong>
           <br><br>
           Les mandamos saludos y seguimos en contacto.
 
@@ -79,7 +88,40 @@ const ejercitaciones = [
       pdfs: [ej2_1, ej2_2],
       powerpoints: [],
   },
-  // Puedes agregar más ejercitaciones aquí
+  
+  
+  {
+    id: 3,
+    titulo: 'Ejercitación 3',
+    consigna: `
+        Estimados y estimadas,<br><br>
+        En relación a la clase referida a Capas o Layers les dejamos esta serie de videos:<br><br>
+        <a href="https://drive.google.com/file/d/1S3qr_Ln53XYi4o7_EtRqMl01E7rxnwDC/view?usp=sharing" target="_blank">Propiedades de Entidades</a><br><br>
+        <a href="https://drive.google.com/file/d/1bOoTkyScgnc5rKvYulNH_CHKN1VGreeB/view?usp=sharing" target="_blank">Administrador de Capas</a><br><br>
+        <a href="https://drive.google.com/file/d/1NCaj3aE4Z08lSAK6zPY6iukZtv7Po3kt/view?usp=sharing" target="_blank">Ejemplo de uso a través de 2 actividades</a><br><br>
+        Compartimos las ejercitaciones <em>Ejercitacion 03-en clase.pdf</em> y <em>Ejercitacion 03-en clase-Consigna.pdf</em> para que puedan practicar cuando vean el videotutorial, esta actividad <strong>no se debe entregar.</strong>
+        <br><br>
+        También les adjuntamos 3 archivos para rehacer la Flor, pero ahora con las entidades dispuestas y organizadas en distintas capas (<em>Ejercitacion 03 Flor.pdf</em>; <em>Ejercitacion 03 Flor-desarrollo.pdf</em> y <em>Ejercitacion 03 Flor-consigna.pdf</em>) esta actividad <strong>tampoco debe ser entregada.</strong>
+        <br><br>
+        Por último, les dejamos 3 archivos para la ejecución de la ejercitación 03 (<em>Ejercitacion 03 -Cubo.pdf</em>; <em>Ejercitacion 03 -Cubo-desarrollo.pdf</em> y <em>Ejercitacion 03 –Cubo-consigna.pdf</em>) esta actividad deberá ser entregada  con la fecha límite <strong>indicada en el calendario</strong>.
+        <br><br>
+        <strong>Esta debe ser enviada a la casilla de correo electrónico dtacun3f@gmail.com, denominada: <em>Ejercitacion 03 Apellido.dwg</em>. Los archivos que no tengan este formato no serán recepcionados.</strong>
+        <br><br>
+        Saludos.
+    `,
+    videos: [
+        'https://drive.google.com/file/d/1S3qr_Ln53XYi4o7_EtRqMl01E7rxnwDC/preview',
+        'https://drive.google.com/file/d/1bOoTkyScgnc5rKvYulNH_CHKN1VGreeB/preview',
+        'https://drive.google.com/file/d/1NCaj3aE4Z08lSAK6zPY6iukZtv7Po3kt/preview'
+    ],
+    pdfs: [ej3_1, ej3_2, ej3_3, ej3_4, ej3_5, ej3_6, ej3_7, ej3_8],
+    powerpoints: [],
+}
+
+  
+  
+  
+  
 ];
 
 export default ejercitaciones;
