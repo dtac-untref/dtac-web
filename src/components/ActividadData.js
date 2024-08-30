@@ -2,12 +2,12 @@ import ej_1 from "../pdfs/Ejercitacion 01-1.pdf";
 import ej_2 from "../pdfs/Ejercitacion 01-2.pdf";
 import ej_3 from "../pdfs/Ejercitacion 01-3.pdf";
 import ej_4 from "../pdfs/Ejercitacion_04-Confeccion_de_Pieza_a_partir_del_cubo.pdf";
-// import rar_1 from "../rar/Ejercitacion-01.rar";
+import rar_1 from "../rar/Ejercitacion-01.rar";
 
-// const archivoRAR = `${process.env.PUBLIC_URL}/public/rar/Ejercitacion-01.rar`;
+const archivoRAR = `${process.env.PUBLIC_URL}/public/rar/Ejercitacion-01.rar`;
 
 
-// const actividades = [
+const actividades = [
 //   {
 //     id: 1,
 //     titulo: "Actividad de la Tía Elena",
@@ -46,6 +46,6 @@ import ej_4 from "../pdfs/Ejercitacion_04-Confeccion_de_Pieza_a_partir_del_cubo.
 // },
 
 
-// ];
+];
 
 export default actividades;
