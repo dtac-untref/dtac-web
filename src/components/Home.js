@@ -13,7 +13,7 @@ function Home() {
     const calcularEjercitacion = () => {
       const now = new Date();
       // const startDate = new Date('2024-08-07T00:00:00-03:00'); // 07/08/2024
-      const baseDate = new Date('2024-08-15T18:00:00-03:00'); // 15/08/2024 a las 18:00 hs GMT-3
+      const baseDate = new Date('2025-08-27T18:00:00-03:00'); // 15/08/2024 a las 18:00 hs GMT-3
 
       if (now < baseDate) {
         // Si es antes del 15/08/2024 a las 18:00, mostrar Ejercitación 1
