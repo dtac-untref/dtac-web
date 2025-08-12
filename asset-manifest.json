@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dtac-web/static/css/main.60a26cc3.css",
-    "main.js": "/dtac-web/static/js/main.c6402331.js",
+    "main.js": "/dtac-web/static/js/main.92db7808.js",
     "static/js/453.699f82d8.chunk.js": "/dtac-web/static/js/453.699f82d8.chunk.js",
     "static/media/Lamina 05 Consigna.pdf": "/dtac-web/static/media/Lamina 05 Consigna.c4f70a95866dbac52c92.pdf",
     "static/media/Ejercitacion 03 Flor-Consigna.pdf": "/dtac-web/static/media/Ejercitacion 03 Flor-Consigna.5f320fbf61c84e74a8b6.pdf",
@@ -9,7 +9,6 @@
     "static/media/Lamina_11_Apellido-A2.pdf": "/dtac-web/static/media/Lamina_11_Apellido-A2.33b0ccd36b717cd707b0.pdf",
     "static/media/Ejercitacion_08_-_Rotulos.pdf": "/dtac-web/static/media/Ejercitacion_08_-_Rotulos.1bed012c5066fe269f02.pdf",
     "static/media/Ejercitacion 03 Flor-Desarrollo.pdf": "/dtac-web/static/media/Ejercitacion 03 Flor-Desarrollo.d7abc2513cad0a230591.pdf",
-    "static/media/Ejercitacion_04-Confeccion_de_Pieza_a_partir_del_cubo.pdf": "/dtac-web/static/media/Ejercitacion_04-Confeccion_de_Pieza_a_partir_del_cubo.ae42f268c0bce8734b4e.pdf",
     "static/media/Ejercitacion 02-flor.pdf": "/dtac-web/static/media/Ejercitacion 02-flor.0d70881c0f6ea7123e07.pdf",
     "static/media/construccion.png": "/dtac-web/static/media/construccion.3d5b73af9daca7cebf32.png",
     "static/media/Lamina 07 Apellido.pdf": "/dtac-web/static/media/Lamina 07 Apellido.42b5be79d0d58f774545.pdf",
@@ -17,7 +16,6 @@
     "static/media/Ejercitacion 03-en clase-Consigna.pdf": "/dtac-web/static/media/Ejercitacion 03-en clase-Consigna.5b16417b40b6fc7ce747.pdf",
     "static/media/Ejercitacion 02-en clase.pdf": "/dtac-web/static/media/Ejercitacion 02-en clase.850507c5a97f254af0c3.pdf",
     "static/media/Ejercitacion 04-A3.pdf": "/dtac-web/static/media/Ejercitacion 04-A3.ff1bc4389ff5609e017c.pdf",
-    "static/media/Ejercitacion-01.rar": "/dtac-web/static/media/Ejercitacion-01.2a73a5f4f155031df383.rar",
     "static/media/Ejercitacion 03-Cubo-Consigna.pdf": "/dtac-web/static/media/Ejercitacion 03-Cubo-Consigna.4138360406915b26f1d1.pdf",
     "static/media/Ejercitacion 01-3.pdf": "/dtac-web/static/media/Ejercitacion 01-3.3feae2fdb1138519f04d.pdf",
     "static/media/Lamina 07 Pieza.pdf": "/dtac-web/static/media/Lamina 07 Pieza.b7c2970f865f84d45d49.pdf",
@@ -32,11 +30,11 @@
     "static/media/Ejercitacion 03 Flor.pdf": "/dtac-web/static/media/Ejercitacion 03 Flor.d0d5027f4f02927c66e0.pdf",
     "index.html": "/dtac-web/index.html",
     "main.60a26cc3.css.map": "/dtac-web/static/css/main.60a26cc3.css.map",
-    "main.c6402331.js.map": "/dtac-web/static/js/main.c6402331.js.map",
+    "main.92db7808.js.map": "/dtac-web/static/js/main.92db7808.js.map",
     "453.699f82d8.chunk.js.map": "/dtac-web/static/js/453.699f82d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60a26cc3.css",
-    "static/js/main.c6402331.js"
+    "static/js/main.92db7808.js"
   ]
 }
