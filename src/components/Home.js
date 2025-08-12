@@ -49,15 +49,15 @@ function Home() {
             pdfs={ejercitacionActual.pdfs}
             powerpoints={ejercitacionActual.powerpoints}
           />
-          )}
-         {ultimaActividad && (
-           <Actividad 
-             titulo={ultimaActividad.titulo}
-             consigna={ultimaActividad.consigna}
-             videos={ultimaActividad.videos}
-             pdfs={ultimaActividad.pdfs}
-             powerpoints={ultimaActividad.powerpoints}
-           />
+         // )}
+         //{ultimaActividad && (
+         //  <Actividad 
+         //    titulo={ultimaActividad.titulo}
+         //    consigna={ultimaActividad.consigna}
+         //    videos={ultimaActividad.videos}
+         //    pdfs={ultimaActividad.pdfs}
+         //    powerpoints={ultimaActividad.powerpoints}
+         //  />
         )}
 
         <button
@@ -78,16 +78,9 @@ function Home() {
 
         <button
           className="wpp-button"
-          onClick={() => window.open('https://chat.whatsapp.com/ILfsrssSDkeG8EHrhRVQMr', '_blank')}
+          onClick={() => window.open('https://chat.whatsapp.com/GsWZFuF7sLiKgb5rdx9fyh?mode=ac_t', '_blank')}
         >
-          Grupo Wpp Miercoles
-        </button>
-
-        <button
-          className="wpp-button"
-          onClick={() => window.open('https://chat.whatsapp.com/HRu8Q8D4PkHAxfQuYugX36', '_blank')}
-        >
-          Grupo Wpp Jueves
+          Grupo Wpp
         </button>
 
       </div>

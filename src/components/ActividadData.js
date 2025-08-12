@@ -21,18 +21,18 @@ const actividades = [
   },
 
 
-    {
-      id: 2,
-      titulo: 'Actividad de Construcción en Seco',
-      consigna: `En esta actividad grupal, tendrán la oportunidad de realizar una breve investigación y crear una presentación clara y sencilla sobre un método o elemento específico relacionado con la contruccion en seco.
-      <br><br>
-      El objetivo de esta actividad es que <strong> logren transmitir información técnica de manera sencilla y efectiva</strong>, haciendo uso de recursos visuales y una buena organización de la información.
-      <br><br>
-      <a href="https://ju4n113.wixsite.com/website" target="_blank">Link a página de actividad</a>`,
-      videos: [ ],
-      pdfs: [ ],
-      powerpoints: [ ],
-  },
+ //   {
+ //     id: 2,
+ //     titulo: 'Actividad de Construcción en Seco',
+ //     consigna: `En esta actividad grupal, tendrán la oportunidad de realizar una breve investigación y crear una presentación clara y sencilla sobre un método o elemento específico relacionado con la contruccion en seco.
+ //     <br><br>
+ //     El objetivo de esta actividad es que <strong> logren transmitir información técnica de manera sencilla y efectiva</strong>, haciendo uso de recursos visuales y una buena organización de la información.
+ //     <br><br>
+ //     <a href="https://ju4n113.wixsite.com/website" target="_blank">Link a página de actividad</a>`,
+ //     videos: [ ],
+ //     pdfs: [ ],
+ //    powerpoints: [ ],
+ // },
 
 
 //   {
