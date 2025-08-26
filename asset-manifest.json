@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dtac-web/static/css/main.60a26cc3.css",
-    "main.js": "/dtac-web/static/js/main.92db7808.js",
+    "main.js": "/dtac-web/static/js/main.2406e62c.js",
     "static/js/453.699f82d8.chunk.js": "/dtac-web/static/js/453.699f82d8.chunk.js",
     "static/media/Lamina 05 Consigna.pdf": "/dtac-web/static/media/Lamina 05 Consigna.c4f70a95866dbac52c92.pdf",
     "static/media/Ejercitacion 03 Flor-Consigna.pdf": "/dtac-web/static/media/Ejercitacion 03 Flor-Consigna.5f320fbf61c84e74a8b6.pdf",
@@ -30,11 +30,11 @@
     "static/media/Ejercitacion 03 Flor.pdf": "/dtac-web/static/media/Ejercitacion 03 Flor.d0d5027f4f02927c66e0.pdf",
     "index.html": "/dtac-web/index.html",
     "main.60a26cc3.css.map": "/dtac-web/static/css/main.60a26cc3.css.map",
-    "main.92db7808.js.map": "/dtac-web/static/js/main.92db7808.js.map",
+    "main.2406e62c.js.map": "/dtac-web/static/js/main.2406e62c.js.map",
     "453.699f82d8.chunk.js.map": "/dtac-web/static/js/453.699f82d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60a26cc3.css",
-    "static/js/main.92db7808.js"
+    "static/js/main.2406e62c.js"
   ]
 }
