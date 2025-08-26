@@ -13,7 +13,7 @@ function Home() {
     const calcularEjercitacion = () => {
       const now = new Date();
       // const startDate = new Date('2024-08-07T00:00:00-03:00'); // 07/08/2024
-      const baseDate = new Date('2025-08-27T18:00:00-03:00'); // 15/08/2024 a las 18:00 hs GMT-3
+      const baseDate = new Date('2025-08-14T18:00:00-03:00'); // 15/08/2024 a las 18:00 hs GMT-3
 
       if (now < baseDate) {
         // Si es antes del 15/08/2024 a las 18:00, mostrar Ejercitación 1
@@ -49,30 +49,29 @@ function Home() {
             pdfs={ejercitacionActual.pdfs}
             powerpoints={ejercitacionActual.powerpoints}
           />
-         // )}
-         //{ultimaActividad && (
-         //  <Actividad 
-         //    titulo={ultimaActividad.titulo}
-         //    consigna={ultimaActividad.consigna}
-         //    videos={ultimaActividad.videos}
-         //    pdfs={ultimaActividad.pdfs}
-         //    powerpoints={ultimaActividad.powerpoints}
-         //  />
+          )}
+         {ultimaActividad && (
+           <Actividad 
+             titulo={ultimaActividad.titulo}
+             consigna={ultimaActividad.consigna}
+             videos={ultimaActividad.videos}
+             pdfs={ultimaActividad.pdfs}
+             powerpoints={ultimaActividad.powerpoints}
+           />
         )}
 
-        <button
+        {/* <button
           className="meet-button"
           onClick={() => window.open('https://meet.google.com/ttg-gpgj-aro', '_blank')}
-        >
-          Unirse a la clase (Miércoles)
-        </button>
+        >  Unirse a la clase (Miércoles)
+        </button> */}
 
-        <button
-          className="meet-button"
-          onClick={() => window.open('https://meet.google.com/shf-rqko-sis', '_blank')}
+        {/*<button
+          //className="meet-button"
+          //onClick={() => window.open('https://meet.google.com/shf-rqko-sis', '_blank')}
         >
           Unirse a la clase (Jueves)
-        </button>
+        </button>*/}
 
         <br></br>
 

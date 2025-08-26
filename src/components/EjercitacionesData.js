@@ -112,7 +112,7 @@ const ejercitaciones = [
         <br><br>
         También les adjuntamos 3 archivos para rehacer la Flor, pero ahora con las entidades dispuestas y organizadas en distintas capas (<em>Ejercitacion 03 Flor.pdf</em>; <em>Ejercitacion 03 Flor-desarrollo.pdf</em> y <em>Ejercitacion 03 Flor-consigna.pdf</em>) esta actividad <strong>tampoco debe ser entregada.</strong>
         <br><br>
-        Por último, les dejamos 3 archivos para la ejecución de la ejercitación 03 (<em>Ejercitacion 03 -Cubo.pdf</em>; <em>Ejercitacion 03 -Cubo-desarrollo.pdf</em> y <em>Ejercitacion 03 –Cubo-consigna.pdf</em>) esta actividad deberá ser entregada  con la fecha límite <strong>indicada en el calendario</strong>.
+        Por último, les dejamos 3 archivos para la ejecución de la ejercitación 03 (<em>Ejercitacion 03 -Cubo.pdf</em>; <em>Ejercitacion 03 -Cubo-desarrollo.pdf</em> y <em>Ejercitacion 03 –Cubo-consigna.pdf</em>) esta actividad deberá ser entregada  con la fecha límite <strong>Jueves 4/9 y Viernes 5/9</strong>, segun la comision que corresponda.
         <br><br>
         <strong>Esta debe ser enviada a la casilla de correo electrónico dtacun3f@gmail.com, denominada: <em>Ejercitacion 03 Apellido.dwg</em>. Los archivos que no tengan este formato no serán recepcionados.</strong>
         <br><br>
@@ -155,7 +155,7 @@ const ejercitaciones = [
       Por último, compartimos las instrucciones para la actividad de entrega obligatoria, que cada uno deberá presentar en el próximo encuentro. La dinámica para la exposición del trabajo implica que puedan compartir la pantalla para mostrar el archivo CAD con las vistas y poder alternar mostrando el cubo que intervinieron con la cámara para ir cotejando que las vistas se condicen con el modelo. En caso de no contar con cámara web, les sugerimos que tengan fotografiado el cubo en sus seis caras (preferentemente indicadas con marcador sobre cada cara, VF, VLI, VS, etc.).<br><br>
       En el archivo adjunto <em>Lamina 04-Apellido.pdf</em> tienen la apariencia de toda la composición, además de las medidas (en color gris). Aclaramos que no es necesario dibujar las cotas dado que todavía no hemos visto los comandos necesarios y las configuraciones para acotar. Por otro lado, la ubicación de todo el sistema de vistas debe ser ajustado por ustedes para lograr una disposición equilibrada.<br><br>
       Para comenzar con la ejecución deben generar 3 Capas: el layer Formato en color magenta (6) y línea CONTINUA; el layer Pieza en color blanco/negro (7) y línea CONTINUA; y, por último, el layer Línea Trazos Ocultos en color cyan (4) y línea DASHED2 (TRAZOS2).<br><br>
-      <strong>Esta debe ser enviada a la casilla de correo electrónico dtacun3f@gmail.com, denominada: <em>Lámina 04 - Apellido.dwg</em>. La fecha límite de entrega está indicada en el calendario. Los archivos que no tengan este formato no serán recepcionados.</strong>
+      <strong>Esta debe ser enviada a la casilla de correo electrónico dtacun3f@gmail.com, denominada: <em>Lámina 04 - Apellido.dwg</em>. La fecha límite de entrega es el Jueves 11/9 y Viernes 12/9, segun la comision que corresponda. Los archivos que no tengan este formato no serán recepcionados.</strong>
       <br><br>
       Saludos.
   `,
@@ -187,7 +187,7 @@ const ejercitaciones = [
       Por otro lado, compartimos este video con la actual disposición del comando Hatch en la cinta de comandos del entorno Dibujo 2D y Anotación (Drafting & Annotation): <a href="https://youtu.be/jVLcmJ8TxTE" target="_blank">Ver tutorial</a><br><br>
       Adjuntamos los archivos de la ejercitacion que constan de las instrucciones para la próxima actividad de entrega obligatoria. El archivo <em>Lamina 05 Consigna.pdf</em>, expone los criterios para la ejecución, y el archivo <em>Lamina 05 Apellido.pdf</em>, ejemplifica la apariencia final a lograr, donde pueden variar los colores del mandala.
       <br><br>
-      <strong>Esta actividad deberá ser mostrada en el próximo encuentro virtual (indicado en el calendario). Luego se debe enviar a la casilla: dtacun3f@gmail.com, con la denominación: <em>Lamina 05 Apellido.dwg</em>. Los archivos que no tengan este formato no serán recepcionados.</strong>
+      <strong>Esta actividad deberá ser mostrada en el próximo encuentro virtual. Luego se debe enviar a la casilla: dtacun3f@gmail.com, con la denominación: <em>Lamina 05 Apellido.dwg</em>, con limite de entrega el dia despues de la clase. Los archivos que no tengan este formato no serán recepcionados.</strong>
       <br><br>
       Saludos.
   `,
@@ -219,7 +219,7 @@ const ejercitaciones = [
       <br><br>
       En el próximo encuentro virtual deberán compartir la pantalla para mostrar el archivo CAD con las perspectivas y poder alternar mostrando el cubo que intervinieron con la cámara para ir cotejando que las representaciones se condicen con el modelo. En caso de no contar con cámara web, les sugerimos que tengan fotografiado el cubo.
       <br><br>
-      <strong>Esta actividad deberá ser mostrada en el próximo encuentro virtual (indicado en el calendario). Luego se debe enviar a la casilla: dtacun3f@gmail.com, con la denominación: <em>Lamina 06 Apellido.dwg</em>. Los archivos que no tengan este formato no serán recepcionados.</strong>
+      <strong>Esta actividad deberá ser mostrada en el próximo encuentro virtual. Luego se debe enviar a la casilla: dtacun3f@gmail.com, con la denominación: <em>Lamina 06 Apellido.dwg</em>, con limite de entrega el dia despues de la clase. Los archivos que no tengan este formato no serán recepcionados.</strong>
       <br><br>
       Saludos.
   `,
@@ -255,7 +255,7 @@ const ejercitaciones = [
       En este vínculo encontrarán el video sobre todos los parámetros que nos permiten configurar un ESTILO DE COTAS (Cota -Estilo e Texto-, Línea Auxiliar de Cota -Línea de Referencia para AutoCAD-, Línea de Cota y Flechas –Símbolos-), luego de diseñar nuestro estilo, exploraremos las herramientas de acotado:<br><br>
       <a href="https://drive.google.com/file/d/1hfoLg3X-BxaD2WfGs1W3AOp-qB6lpJMC/view?usp=sharing" target="_blank">Video Configuración de Estilo de Cotas</a><br><br>
       A partir de ello, debemos agregar las cotas necesarias a la Lamina 07 (cotas numericas, no se debe agregar una cota de texto), generando la capa o el layer Cotas en color amarillo y línea CONTINUA.<br><br>
-      Fecha de Entrega indicada en el calendario.<br><br>
+      Fecha de entrega: Jueves y Viernes de la semana de exposicion en clase, segun la comision que corresponda.<br><br>
       Denominación: Lamina 07-Apellido.dwg<br><br>
       Enviar a la casilla: dtacun3f@gmail.com<br><br>
       Saludos.`,
